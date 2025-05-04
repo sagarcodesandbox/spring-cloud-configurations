@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBanks accounts related local QA APIs"
+  message: "Welcome to EazyBanks accounts related Github QA APIs"
   contactDetails:
     name: "Misi Jade - QA"
     email: "misi@eazybank.com"

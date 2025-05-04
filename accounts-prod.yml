@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBanks accounts related local PROD APIs"
+  message: "Welcome to EazyBanks accounts related local PRODUCTION APIs"
   contactDetails:
     name: "Mark German - Manager"
     email: "mark@eazybank.com"
